@@ -20,3 +20,8 @@ It manages students, courses, and enrollments.
 - Database design
 - Creating tables with relationships
 - Writing SQL queries and joins
+## Results
+The project successfully displays:
+- Student records
+- Course data
+- Enrollment relationships using JOIN queries
