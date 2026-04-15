@@ -25,3 +25,8 @@ The project successfully displays:
 - Student records
 - Course data
 - Enrollment relationships using JOIN queries
+## Skills Demonstrated
+- Database design using SQL
+- Data insertion and management
+- Writing SELECT queries
+- Performing JOIN operations between tables
