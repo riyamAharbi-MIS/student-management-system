@@ -29,4 +29,10 @@ The project successfully displays:
 - Database design using SQL
 - Data insertion and management
 - Writing SELECT queries
-- Performing JOIN operations between tables
+- Performing JOIN operations between tables ## 📸 Project Screenshots
+
+###  Students Table
+![Students Table](students-table.png)
+
+### JOIN Query Result
+![Join Result](join-result.png)
